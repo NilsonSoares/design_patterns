@@ -1,2 +1,10 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+# Design Patterns
+
+Este repositório é destinado ao estudo de Design Patterns com implementações utilizando a linguagem Dart.
+
+## Padrões Criacionais
+- Factory Method
+
+## Padrões Estruturais
+
+## Padrões Comportamentais
